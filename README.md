@@ -47,10 +47,6 @@ Obs:O último script não gera figura: ele imprime no terminal, para n = 1, 16 e
 - m = 31, de modo que N = 2m + 1
 - M = 10 (corte do filtro passa-baixa)
 
-## Licença
-
-Licença MIT. Veja o arquivo `LICENSE`.
-
 ## Como citar
 
 Perlacio Hurtado, K. A. *A transformada de Fourier discreta como aproximação da transformada de Fourier periódica*. Dissertação (Mestrado em Matemática), Universidade Federal do Paraná, 2026.

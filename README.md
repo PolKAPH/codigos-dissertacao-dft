@@ -39,7 +39,7 @@ Cada script é independente: define seus próprios parâmetros e não precisa do
 | `reconstrucao_filtrada.m` | Reconstrução do sinal a partir do espectro filtrado | Apêndice A.4, Figura 4.4 |
 | `coeficientes_onda_triangular.m` | Compara coeficientes de Fourier exatos e discretos (onda triangular) | Apêndice A.5, Tabela 4.2 |
 
-Obs:O último script não gera figura: ele imprime no terminal, para n = 1, 16 e 31, o coeficiente exato, o coeficiente discreto e o erro absoluto.
+Obs: O último script não gera figura; ele imprime no terminal, para n = 1, 16 e 31, o coeficiente exato, o coeficiente discreto e o erro absoluto.
 
 ## Parâmetros
 
